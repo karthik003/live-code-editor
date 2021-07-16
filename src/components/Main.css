@@ -1,0 +1,14 @@
+.file-names{
+    text-align:left;
+}
+
+.file{
+    cursor: pointer;
+    height: 25px;
+    margin-bottom: 3px;
+    padding-left:20px;
+    color:#C3C1C1
+}
+.file:hover{
+    color: white;
+}
